@@ -70,8 +70,9 @@ body {
 }
 
 .social-icons li a i {
-    padding: 10px;
-    font-size: 1rem;
+    padding: 12px;
+    margin:0px 5px;
+    font-size: 1.1rem;
     border-radius: 50%;
 }
 
@@ -463,10 +464,10 @@ textarea {
 }
 
 #contact .social-icons li a i {
-    font-size: 1.2rem;
-    margin: 40px 10px 10px;
-    padding: 10px 14px 20px 10px;
-
+    padding: 12px;
+    margin:0px 5px;
+    font-size: 1.1rem;
+    border-radius: 50%;
 }
 
 input:focus,
@@ -506,9 +507,6 @@ button:focus {
 
 /* setting background-color */
 
-.m-blue {
-    color: #2857a4;
-}
 
 .mb-blue {
     background-color: #2857a4;
@@ -525,8 +523,12 @@ button:focus {
 .mb-light-purple {
     background-color: #93738c;
 }
-
-
+.mb-nodejs{
+    background-color: #403066;
+}
+.mb-db{
+    background-color: #74ADC8;
+}
 
 /*Percentage Classes */
 
@@ -552,4 +554,8 @@ button:focus {
 .fifty-percent {
     height: inherit;
     width: 50%;
+}
+.sixty-five-percent{
+    height: inherit;
+    width: 65%;
 }
