@@ -524,10 +524,13 @@ button:focus {
     background-color: #93738c;
 }
 .mb-nodejs{
-    background-color: #403066;
+    background-color: #6f6881;
 }
 .mb-db{
-    background-color: #74ADC8;
+    background-color: #54a4c9;
+}
+.mb-react{
+    background-color: #869146;
 }
 
 /*Percentage Classes */
